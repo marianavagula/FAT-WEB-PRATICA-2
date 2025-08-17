@@ -72,7 +72,11 @@ Esse elemento fica dentro do body. <br>
 Link da página: https://marianavagula.github.io/FAT-WEB-PRATICA-2/  
 <br>
 
-[Padaria da Mariana.pdf](https://github.com/user-attachments/files/21823930/Padaria.da.Mariana.pdf)
+
+![index1](https://github.com/user-attachments/assets/ad198e86-3f3d-4352-9026-648d36e06387)
+![index2](https://github.com/user-attachments/assets/96f11046-de8e-4e85-85d8-70e9136a5798)
+![index3](https://github.com/user-attachments/assets/d327a9fd-4aef-4ce5-ad85-0cd7a3195388)
+
 
 
 
