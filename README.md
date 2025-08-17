@@ -2,7 +2,7 @@
 Olá, sou a Mariana da Silva Vagula e estou realizando o curso de Programação Web de 120 horas pela FAT no ano de 2025. <br>
 
 ✅✅Objetivo e observações: <br>
-Esse código foi desenvolvido no módulo 1 e é a atividade prática 0 da aula 4.  <br>
+Esse código foi desenvolvido no módulo 1 e é a atividade prática 0 da aula 6.  <br>
 Criei um site de uma padaria qualquer e a minha chama "Padaria da Mariana".  <br>
 Estamos na etapa de estruturação, então o código só possui o html.  <br>
 
@@ -68,14 +68,22 @@ Objetivo: Define rodapé. <br>
 Esse elemento fica dentro do body. <br>
 <img height="34" alt="image" src=images/FOOTER.png/> <br>
 <br>
+➡️ TABLE: <br>
+Objetivo: Criar uma tabela. <br>
+<img width="400" alt="image" src=images/TABLE-visual.png/> <br>
+Para criar a estrutura da tabela, devemos utilizar a tag table. <br>
+Dentro dessa tag, vamos colocar mais duas tag: thead e tbody. <br>
+A tag thead é utilizada para definir o cabeçalho. Ou seja, é a primeira linha. <br>
+Dentro da tag thead precisa ter a estrutura tr e th.
+A tag tbody é utilizada para inserir as informações na tabela, é o corpo da tabela. <br>
+Dentro da tag tbody precisa ter a estrutura tr e td.
+<img width="400" alt="image" src=images/TABLE-estrutura.png/> <br>
+<br>
+
 ✅✅ Resultado: <br>
 Link da página: https://marianavagula.github.io/FAT-WEB-PRATICA-2/  
 <br>
 
-
-![index1](https://github.com/user-attachments/assets/ad198e86-3f3d-4352-9026-648d36e06387)
-![index2](https://github.com/user-attachments/assets/96f11046-de8e-4e85-85d8-70e9136a5798)
-![index3](https://github.com/user-attachments/assets/d327a9fd-4aef-4ce5-ad85-0cd7a3195388)
 
 
 
