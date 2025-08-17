@@ -1,26 +1,82 @@
-Padaria da Mariana
+✅✅Apresentação: <br>
+Olá, sou a Mariana da Silva Vagula e estou realizando o curso de Programação Web de 120 horas pela FAT no ano de 2025. <br>
 
-Objetivo:
-Este projeto é uma página HTML criada para apresentar a Padaria da Mariana, destacando informações institucionais, cardápio e formas de contato.
+✅✅Objetivo e observações: <br>
+Esse código foi desenvolvido no módulo 1 e é a atividade prática 0 da aula 4.  <br>
+Criei um site de uma padaria qualquer e a minha chama "Padaria da Mariana".  <br>
+Estamos na etapa de estruturação, então o código só possui o html.  <br>
 
-Estrutura do site:
-Cabeçalho e título principal
-Contém o nome da padaria e uma breve frase de boas-vindas.
+✅✅Desenvolvimento e estrutura do projeto:  <br>
+🔸index.html  <br>
 
-Menu de navegação:
-Links internos que permitem acessar rapidamente as seções: Início, Sobre Nós, Produtos, Diferenciais e Contato
+✅✅ Tags utilizadas:  <br>
+➡️ DOCTYPE: <br>
+Objetivo: Define o tipo de Documento. <br>
+<img height="34" alt="image" src=images/DOCTYPE.png/> <br>
+<br>
+➡️ HTML: <br>
+Objetivo: Inicia o código e definindo o idioma. <br>
+<img height="34" alt="image" src=images/HTML.png/> <br>
+<br>
+➡️ HEAD: <br>
+Objetivo: Cabeçalho do site. <br>
+<img height="34" alt="image" src=images/HEAD.png/> <br>
+<br>
+➡️ BODY: <br>
+Objetivo: Corpo do site. <br>
+<img height="34" alt="image" src=images/BODY.png/> <br>
+<br>
+➡️ TITLE: <br>
+Objetivo: Titulo do site, ou seja, é o nome que aparece na aba do navegado. <br>
+<img height="34" alt="image" src=images/TITLE.png/>  <br>
+<br>
+➡️ H1, H2, H3, H4: <br>
+Objetivo: Titulo Principal. <br>
+Tem vários tamanhos: h1, h2, h3 e h4. <br>
+Quanto maior o número, menor o texto. <br>
+<img height="34" alt="image" src=images/H1.png/> <br>
+<br>
+➡️ P: <br>
+Objetivo: Parágrafo. <br>
+<img height="34" alt="image" src=images/P.png/>  <br>
+<br>
+➡️ NAV: <br>
+Objetivo: A tag nav é utilizada para barra de navegação, gerando link para mudar de página ou direcionar o usuário para outro local do site. <br>
+<img alt="image" src=images/NAV.png/> <br>
+<br>
+➡️ SELECTION: <br>
+Objetivo: Quando o dev deseja direcionar o usuário dentro da mesma página, deve usar a tag section e o id. <br>
+Ao usuário clicar no link, ele será direcionado para esse selection que possui o mesmo id do link. <br>
+<img alt="image" src=images/SELECTION.png/> <br>
+<br>
+➡️ LI: <br>
+Objetivo: Aqui estou utilizando a tag li que faz a listagem dos itens. <br>
+E para testar dois tipos de visuais, utilizei a tag ol e a tag ul. <br>
+<img alt="image" src=images/LI.png/> <br>
+<br>
+➡️ OL: <br>
+Objetivo: A lista que utiliza a tag ol, lista os itens em ordem numérica. <br>
+Ou seja: a primeira tag li aparece com o pré-fixo 1. <br>
+<img width="300" alt="image" src=images/OL.png/>  <br>
+<br>
+➡️ UL: <br>
+Objetivo: A lista que utiliza a tag ul, lista todos os itens com um marcador circular ("bolinha") no pré-fixo. <br>
+<img width="400" alt="image" src=images/UL.png/>  <br>
+<br>
+➡️ FOOTER: <br>
+Objetivo: Define rodapé. <br>
+Esse elemento fica dentro do body. <br>
+<img height="34" alt="image" src=images/FOOTER.png/> <br>
+<br>
+✅✅ Resultado: <br>
+Link da página: https://marianavagula.github.io/FAT-WEB-PRATICA-2/  
+<br>
 
-Seção "Sobre Nós":
-Texto introdutório sobre a padaria, sua localização e foco em qualidade e atendimento.
+[Padaria da Mariana.pdf](https://github.com/user-attachments/files/21823930/Padaria.da.Mariana.pdf)
 
-Seção "Produtos":
-Cardápio em formato de tabela, com: Fotografia de cada produto, Categoria (Salgado, Doce ou Bebida), Nome, Ingredientes e Preço.
 
-Seção "Diferenciais":
-Texto enfatizando pontos fortes da padaria e vídeo demonstrativo.
 
-Rodapé ("Contato"):
-Informações de endereço, horário de funcionamento, telefones e logotipo.
 
-Tecnologias utilizadas:
-HTML5 para a estrutura do conteúdo.
+
+
+
