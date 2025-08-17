@@ -70,19 +70,20 @@ Esse elemento fica dentro do body. <br>
 <br>
 ➡️ TABLE: <br>
 Objetivo: Criar uma tabela. <br>
-<img width="400" alt="image" src=images/TABLE-visual.png/> <br>
-Para criar a estrutura da tabela, devemos utilizar a tag table. <br>
+<img width="500" alt="image" src=images/TABLE-visual.png/> <br>
+▶️ Para criar a estrutura da tabela, devemos utilizar a tag table. <br>
 Dentro dessa tag, vamos colocar mais duas tag: thead e tbody. <br>
-A tag thead é utilizada para definir o cabeçalho. Ou seja, é a primeira linha. <br>
-Dentro da tag thead precisa ter a estrutura tr e th.
-A tag tbody é utilizada para inserir as informações na tabela, é o corpo da tabela. <br>
-Dentro da tag tbody precisa ter a estrutura tr e td.
+▶️ A tag thead é utilizada para definir o cabeçalho. Ou seja, é a primeira linha. <br>
+Dentro da tag thead precisa ter a estrutura tr e th. <br>
+▶️ A tag tbody é utilizada para inserir as informações na tabela, é o corpo da tabela. <br>
+Dentro da tag tbody precisa ter a estrutura tr e td. <br>
 <img width="400" alt="image" src=images/TABLE-estrutura.png/> <br>
 <br>
 
 ✅✅ Resultado: <br>
 Link da página: https://marianavagula.github.io/FAT-WEB-PRATICA-2/  
 <br>
+
 
 
 
